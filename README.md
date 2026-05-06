@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Assurez-vous que le chemin est exact. Si le repo est sur GitHub, c'est relatif à la racine -->
-  <img src="results/kitti-bev.gif" width="600" alt="Bird's Eye View Pipeline"/>
+  <img src="/results/kitti-bev.gif" width="600" alt="Bird's Eye View Pipeline"/>
 </p>
 
 ## 📌 Project Overview
